@@ -32,10 +32,7 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 
 ## 🚀 Currently Learning:
 - **Next.js** for server-side rendering and static site generation.
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff) Next.js
 - **TypeScript** to improve code quality and maintainability.
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff) TypeScript
-
 
 ## 🔧 How I Work:
 As a freelancer, I understand the importance of clear communication, quality code, and meeting deadlines. Whether you're a startup or an established business, I collaborate closely with clients to deliver exactly what they need, with attention to detail at every step of the development process.
