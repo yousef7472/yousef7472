@@ -9,7 +9,7 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 
 - **Frameworks & Libraries**: 
-   - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff) 
+   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) React
    - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
    - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 - **Version Control**: 
@@ -38,7 +38,7 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 As a freelancer, I understand the importance of clear communication, quality code, and meeting deadlines. Whether you're a startup or an established business, I collaborate closely with clients to deliver exactly what they need, with attention to detail at every step of the development process.
 
 ## 📈 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+![LinkedIn](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/linkedin-original.svg)
 [My LinkedIn Profile](https://www.linkedin.com/in/yousef-shaban74/)
 
 Feel free to reach out if you need help with your next web development project. I'm always open to new opportunities!
