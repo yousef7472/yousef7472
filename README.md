@@ -23,8 +23,8 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 - **Other**: AJAX, Responsive Web Design, Cross-Browser Compatibility
 
 ## 💼 My Services:
-- Custom **Responsive Web Design** and **UI/UX Development**
 - Front-End **Development** with **React.js**
+- Custom **Responsive Web Design** and **UI/UX Development**
 - **Website Optimization** and Performance Tuning
 - Integration with **APIs** and back-end systems
 - **Cross-Browser** and **Mobile Compatibility Testing**
