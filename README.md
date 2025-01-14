@@ -4,12 +4,12 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 
 ## 🛠️ Technologies & Tools I Use:
 - **Languages**:  
-  ![HTML5](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/html5-original.svg)
-  ![CSS3](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/css3-original.svg)
-  ![JavaScript](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/javascript-original.svg)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) HTML5
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) CSS3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) JavaScript (ES6+)
 
 - **Frameworks & Libraries**: 
-  ![React](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/react-original.svg)
+   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) React
    - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff) Tailwind CSS,
    - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff) Bootstrap
 - **Version Control**: 
@@ -32,16 +32,16 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 
 ## 🚀 Currently Learning:
 - **Next.js** for server-side rendering and static site generation.
-![Next.js](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/nextjs-original.svg)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff) Next.js
 - **TypeScript** to improve code quality and maintainability.
-![TypeScript](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/typescript-original.svg)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff) TypeScript
 
 
 ## 🔧 How I Work:
 As a freelancer, I understand the importance of clear communication, quality code, and meeting deadlines. Whether you're a startup or an established business, I collaborate closely with clients to deliver exactly what they need, with attention to detail at every step of the development process.
 
 ## 📈 Connect With Me:
-![LinkedIn](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/linkedin-original.svg)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 [My LinkedIn Profile](https://www.linkedin.com/in/yousef-shaban74/)
 
 Feel free to reach out if you need help with your next web development project. I'm always open to new opportunities!
