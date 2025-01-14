@@ -4,9 +4,13 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 
 ## 🛠️ Technologies & Tools I Use:
 - **Languages**:  
-  [![HTML5](https://www.w3schools.com/html/img_html5.svg)](https://www.w3schools.com/html/) HTML5
+  [![HTML5](https://www.w3schools.com/html/img_html5.svg)] HTML5
   [![CSS3](https://www.w3schools.com/css/img_css3.svg)](https://www.w3schools.com/css/) CSS3
   [![JavaScript](https://www.w3schools.com/js/img_js.svg)](https://www.w3schools.com/js/) JavaScript (ES6+)
+
+   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)(https://www.w3schools.com/html/)] HTML5
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) CSS3
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) JavaScript (ES6+)
 
 - **Frameworks & Libraries**: 
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff) React
