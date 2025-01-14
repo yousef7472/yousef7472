@@ -38,7 +38,6 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 As a freelancer, I understand the importance of clear communication, quality code, and meeting deadlines. Whether you're a startup or an established business, I collaborate closely with clients to deliver exactly what they need, with attention to detail at every step of the development process.
 
 ## 📈 Connect With Me:
-![LinkedIn](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/linkedin-original.svg)
 [My LinkedIn Profile](https://www.linkedin.com/in/yousef-shaban74/)
 
 Feel free to reach out if you need help with your next web development project. I'm always open to new opportunities!
