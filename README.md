@@ -31,10 +31,11 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 - Web **Accessibility** improvements
 
 ## 🚀 Currently Learning:
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 - **Next.js** for server-side rendering and static site generation.
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![Next.js](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/nextjs-original.svg)
 - **TypeScript** to improve code quality and maintainability.
+![TypeScript](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/typescript-original.svg)
+
 
 ## 🔧 How I Work:
 As a freelancer, I understand the importance of clear communication, quality code, and meeting deadlines. Whether you're a startup or an established business, I collaborate closely with clients to deliver exactly what they need, with attention to detail at every step of the development process.
