@@ -12,7 +12,6 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 - **TypeScript** to improve code quality and maintainability.
 
 ## 📈 Connect With Me:
-[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>](yousef7shaban@gmail.com)
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>](https://www.linkedin.com/in/yousef-shaban74/)
 [<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>](https://wa.me/01207851832)
 [<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"/>](https://www.facebook.com/Yousef.shaban74)
