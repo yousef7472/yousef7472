@@ -13,7 +13,7 @@ I'm a passionate **Freelance Front-End Developer** with a focus on building resp
 
 ## 📈 Connect With Me:
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>](https://www.linkedin.com/in/yousef-shaban74/)
-[<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>](https://wa.me/01207851832)
+[<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>](https://wa.me/+201207851832)
 [<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"/>](https://www.facebook.com/Yousef.shaban74)
 
 Feel free to reach out if you need help with your next web development project. I'm always open to new opportunities!
